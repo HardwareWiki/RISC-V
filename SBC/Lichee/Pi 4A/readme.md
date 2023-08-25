@@ -1,0 +1,1 @@
+- [Lichee Pi 4A: Serious RISC-V Desktop Computing](https://youtu.be/1apoFXZ9ad8)
