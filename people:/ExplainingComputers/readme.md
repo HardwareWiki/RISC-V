@@ -1,0 +1,2 @@
+- [DC-ROMA RISC-V Laptop II](https://youtu.be/3mhd98AGNXQ)
+- [RISC-V 2024 Update: RISE, AI Accelerators & More](https://youtu.be/f6mPK3QCrBo)
