@@ -1,0 +1,1 @@
+- [Linus Torvalds: RISC-V Repeating the Mistakes of Its Predecessors](https://youtu.be/1Y82U450zcI)
